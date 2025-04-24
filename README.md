@@ -1,4 +1,3 @@
-# OussamaLakhtiri
 # 👋 Hi, I'm Oussama Lakhtiri
 
 🎓 Computer Engineering Student | 🔐 Cybersecurity Enthusiast | 🚐 COO @ Velocia Transport  
@@ -49,10 +48,6 @@ I enjoy **solving complex challenges**, whether it’s securing systems, automat
 - **Polish** (Beginner)
 
 ---
-
-## 📬 Let’s Connect
-
-[💼 LinkedIn](https://www.linkedin.com/in/oussama-lakhtiri-2649882bb/) • [📧 Email](mailto:Lakhtiri.osamah@gmail.com)
 
 ---
 
