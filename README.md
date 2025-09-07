@@ -21,7 +21,7 @@ I aim to grow into a **Cybersecurity Engineer** who designs secure, reliable, an
 
 ## 💻 Technical Skills  
 
-- **Languages:** `Python` `C` `C++` `JavaScript` `SQL` `HTML` `CSS`  
+- **Languages:** `Python` `C` `C++` `JavaScript` `SQL` `HTML` `CSS` `TS`
 - **Web Development:** `React` `Redux` `WordPress`  
 - **Cybersecurity:** `Pen Testing` `Network Security` `Cryptography` `Risk Assessment`  
 - **Tools:** `Burp Suite CE` `Wireshark` `Cisco Packet Tracer` `SSP` `Zendesk` `BI Tools`  
