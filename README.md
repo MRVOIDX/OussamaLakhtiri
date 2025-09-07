@@ -1,57 +1,65 @@
-# 👋 Hi, I'm Oussama Lakhtiri
+# 👋 Hi, I'm Oussama Lakhtiri  
 
-🎓 Computer Engineering Student | 🔐 Cybersecurity Enthusiast | 🚐 COO @ Velocia Transport  
-🌍 Based in Warsaw, Poland | Fluent in English, French & Arabic | Learning Polish & Italian
-
----
-
-## 🧠 About Me
-
-I'm a results-driven Computer Engineering student at MANS with a deep passion for **cybersecurity, automation, and AI**.  
-I combine technical knowledge, soft skills, and customer-oriented experience to build **secure, scalable, and efficient solutions**.
-
-I enjoy **solving complex challenges**, whether it’s securing systems, automating workflows, or enhancing customer experiences.
+🎓 **Computer Engineering Student** | 🔐 **Cybersecurity Enthusiast** | 🚐 **COO @ Velocia Transport**  
+🌍 Based in **Warsaw, Poland** | Fluent in **English, French & Arabic** | Learning **Polish & Italian**  
 
 ---
 
-## 💻 Technical Skills
+## 🧑‍💻 About Me  
 
-**Languages:** `Python` `C` `C++` `JavaScript` `SQL` `HTML` `CSS`  
-**Web Dev:** `React` `Redux` `WordPress`  
-**Cybersecurity:** `Pen Testing` `Network Security` `Cryptography` `Risk Assessment`  
-**Tools:** `Burp Suite CE` `Wireshark` `Cisco Packet Tracer` `SSP` `Zendesk` `BI Tools`  
-**Other:** `Discord Bot Dev` `Data Analysis` `Automation` `Content Moderation`
+I’m a **Computer Engineering student at MANS** with a strong passion for **cybersecurity, AI, and automation**.  
+I thrive on solving **complex technical challenges**, whether it’s **securing systems, optimizing workflows, or building scalable applications**.  
 
----
+My experience combines:  
+✔️ Technical skills (cybersecurity, programming, automation)  
+✔️ Leadership & operations (COO @ Velocia Transport)  
+✔️ Customer-oriented problem solving  
 
-## 🛠️ Projects
-
-> More projects coming soon...
+I aim to grow into a **Cybersecurity Engineer** who designs secure, reliable, and efficient solutions.  
 
 ---
 
-## 📜 Certifications
+## 💻 Technical Skills  
 
-- 🏅 ISO 27001 – Armatis  
-- 🛡️ Operations Security – Armatis  
-- 🧑‍💻 Python – Kaggle | C++ – MANS | React + Redux – Sololearn  
-- 🌐 JavaScript & HTML – Sololearn
-
----
-
-## 🌍 Languages
-
-- **Arabic** (Native)
-- **English** (Fluent)
-- **French** (Fluent)
-- **Italian** (Intermediate)
-- **Polish** (Beginner)
+- **Languages:** `Python` `C` `C++` `JavaScript` `SQL` `HTML` `CSS`  
+- **Web Development:** `React` `Redux` `WordPress`  
+- **Cybersecurity:** `Pen Testing` `Network Security` `Cryptography` `Risk Assessment`  
+- **Tools:** `Burp Suite CE` `Wireshark` `Cisco Packet Tracer` `SSP` `Zendesk` `BI Tools`  
+- **Other:** `Discord Bot Dev` `Data Analysis` `Automation` `Content Moderation`  
 
 ---
 
+## 🚀 Projects  
+
+🔐 **MansBlog** – A simple blog platform with Python & Flask  
+🤖 **Discord Bots** – Automation tools for community management  
+📊 **Data Analysis Scripts** – Python-based data insights  
+
+> More projects coming soon...  
+
 ---
 
-### ⚡ Interests  
-Cybersecurity | AI & Automation | Ethical Hacking | Data Analytics | Team Leadership
+## 📜 Certifications  
 
-> “Secure code, clear mind, efficient systems.”  
+- 🏅 **ISO 27001** – Armatis  
+- 🛡️ **Operations Security** – Armatis  
+- 🧑‍💻 **Python** – Kaggle | **C++** – MANS | **React + Redux** – Sololearn  
+- 🌐 **JavaScript & HTML** – Sololearn  
+
+---
+
+## 🌍 Languages  
+
+- 🇲🇦 **Arabic** – Native  
+- 🇬🇧 **English** – Fluent  
+- 🇫🇷 **French** – Fluent  
+- 🇮🇹 **Italian** – Intermediate  
+- 🇵🇱 **Polish** – Beginner  
+
+---
+
+## ⚡ Interests  
+
+🔐 Cybersecurity | 🤖 AI & Automation | 🕵️ Ethical Hacking | 📊 Data Analytics | 👥 Team Leadership  
+
+> *“Secure code, clear mind, efficient systems.”*  
