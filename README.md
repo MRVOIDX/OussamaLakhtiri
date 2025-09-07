@@ -33,7 +33,7 @@ I aim to grow into a **Cybersecurity Engineer** who designs secure, reliable, an
 
 🔐 **MansBlog** – A simple blog platform with Python & Flask  
 🤖 **Discord Bots** – Automation tools for community management  
-📊 **Data Analysis Scripts** – Python-based data insights 
+📊 **Data Analysis Scripts** – Python-based data insights  
 🤖 **AI Insight** - Typescript Gits insights
 
 > More projects coming soon...  
